@@ -1,7 +1,8 @@
 {
     "contributors": [
         "mladenbrankovic",
-        "svenjaun"
+        "svenjaun",
+        "Dominic12"
     ],
     "message": "Hi, {{usersWithoutCLA}}! We require contributors to sign our Contributor License Agreement, and we don\"t have  on file. In order for us to review and merge your code, please contact @Dominic12 at dominic.jaermann@icloud.com to get yourself added.",
     "label": "cla-yes ",
